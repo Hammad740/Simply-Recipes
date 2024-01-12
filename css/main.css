@@ -461,7 +461,7 @@ ul {
   width: 100%;
   background-color: var(--white);
   z-index: 999;
-  -webkit-transition: var(--transition);
+
   transition: var(--transition);
   display: grid;
   place-items: center;
